@@ -1,18 +1,30 @@
-// 泛型 generic 泛指的类型
+// interface Item {
+//   name: string;
+// }
 
-function join<T, P>(first: T, second: P) {
-  return `${first}${second}`;
-}
+// class DataManager<T extends number | string> {
+//   constructor(private data: T[]) {}
+//   getItem(index: number): T {
+//     return this.data[index];
+//   }
+// }
 
-function anotherJoin<T>(first: T, second: T) {
-  return first;
-}
+// const data = new DataManager<number>([1]);
+// data.getItem(0);
 
-// T[]
-function map<T>(params: Array<T>) {
+// const data = new DataManager([
+//   {
+//     name: 'jenny'
+//   }
+// ]);
+
+// interface Test {
+//   name: string;
+// }
+// const data = new DataManager<number>([]);
+
+function hello<T>(params: T) {
   return params;
 }
 
-// join<number, string>(1, '1');
-// map<string>(['123']);
-join(1, '1');
+const func: <T>(param: T) => T = hello;
