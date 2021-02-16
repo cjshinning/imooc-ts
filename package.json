@@ -1,0 +1,26 @@
+{
+  "name": "imooc-ts",
+  "version": "1.0.0",
+  "description": "learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node ./demo.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjshinning/imooc-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjshinning/imooc-ts/issues"
+  },
+  "homepage": "https://github.com/cjshinning/imooc-ts#readme",
+  "devDependencies": {
+    "ts-node": "^9.1.1"
+  },
+  "dependencies": {
+    "typescript": "^4.1.5"
+  }
+}

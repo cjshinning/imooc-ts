@@ -1,47 +1,31 @@
-interface Bird {
-  fly: Boolean;
-  sing: () => {};
+enum Status {
+  OFFLINE,
+  ONLINE,
+  DELETED
 }
 
-interface Dog {
-  fly: Boolean;
-  bark: () => {};
-}
+// console.log(Status[0]);
 
-// 类型断言的方式
-function trainAnimal(animal: Bird | Dog) {
-  if (animal.fly) {
-    (animal as Bird).sing();
-  } else {
-    (animal as Dog).bark();
+// console.log(Status.OFFLINE);
+// console.log(Status.ONLINE);
+// console.log(Status.DELETED);
+
+// const Status = {
+//   OFFLINE: 0,
+//   ONLINE: 1,
+//   DELETED: 2
+// };
+
+function getResult(status) {
+  if (status === Status.OFFLINE) {
+    return 'offline';
+  } else if (status === Status.ONLINE) {
+    return 'online';
+  } else if (status === Status.DELETED) {
+    return 'deleted';
   }
+  return 'error';
 }
 
-// in语法来做类型保护
-function trainAnimalSecond(animal: Bird | Dog) {
-  if ('sing' in animal) {
-    animal.sing();
-  } else {
-    animal.bark();
-  }
-}
-
-// typeof 语法做类型保护
-function add(first: string | number, second: string | number) {
-  if (typeof first === 'string' || typeof second === 'string') {
-    return `${first}${second}`;
-  }
-  return first + second;
-}
-
-// 使用instanceof语法来做类型保护
-class NumberObj {
-  count: number;
-}
-
-function addSecond(first: object | NumberObj, second: object | NumberObj) {
-  if (first instanceof NumberObj && second instanceof NumberObj) {
-    return first.count + second.count;
-  }
-  return 0;
-}
+const result = getResult(1);
+console.log(result);
