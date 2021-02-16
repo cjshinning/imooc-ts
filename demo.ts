@@ -1,31 +1,18 @@
-enum Status {
-  OFFLINE,
-  ONLINE,
-  DELETED
+// 泛型 generic 泛指的类型
+
+function join<T, P>(first: T, second: P) {
+  return `${first}${second}`;
 }
 
-// console.log(Status[0]);
-
-// console.log(Status.OFFLINE);
-// console.log(Status.ONLINE);
-// console.log(Status.DELETED);
-
-// const Status = {
-//   OFFLINE: 0,
-//   ONLINE: 1,
-//   DELETED: 2
-// };
-
-function getResult(status) {
-  if (status === Status.OFFLINE) {
-    return 'offline';
-  } else if (status === Status.ONLINE) {
-    return 'online';
-  } else if (status === Status.DELETED) {
-    return 'deleted';
-  }
-  return 'error';
+function anotherJoin<T>(first: T, second: T) {
+  return first;
 }
 
-const result = getResult(1);
-console.log(result);
+// T[]
+function map<T>(params: Array<T>) {
+  return params;
+}
+
+// join<number, string>(1, '1');
+// map<string>(['123']);
+join(1, '1');
