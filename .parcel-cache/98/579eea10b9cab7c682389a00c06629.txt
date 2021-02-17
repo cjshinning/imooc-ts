@@ -1,4 +1,4 @@
-17781
+17782
 51D:\project\imooc-ts\node_modules\lodash\_baseSet.js121436361000000000 0
 101D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\helpers\getIteratorMethod.js121436361000000000 0
 48D:\project\imooc-ts\node_modules\combined-stream132580246111198492 1
@@ -11,7 +11,7 @@
 77D:\project\imooc-ts\node_modules\es-abstract\2020\UTF16DecodeSurrogatePair.js121436361000000000 0
 48D:\project\imooc-ts\node_modules\xtend\.jshintrc121436361000000000 0
 49D:\project\imooc-ts\node_modules\sha.js\sha224.js132580245799490362 0
-23D:\project\imooc-ts\src132580238698282101 1
+23D:\project\imooc-ts\src132580426811408400 1
 81D:\project\imooc-ts\node_modules\caniuse-lite\data\features\screen-orientation.js121436361000000000 0
 51D:\project\imooc-ts\node_modules\lodash\_baseGet.js121436361000000000 0
 76D:\project\imooc-ts\node_modules\core-js\stable\array\virtual\copy-within.js121436361000000000 0
@@ -69,7 +69,7 @@
 67D:\project\imooc-ts\node_modules\postcss-merge-longhand\LICENSE-MIT121436361000000000 0
 67D:\project\imooc-ts\node_modules\@babel\helper-annotate-as-pure\lib132580245782067128 1
 92D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\2019\ToPrimitive.js121436361000000000 0
-24D:\project\imooc-ts\dist132580425033399595 1
+24D:\project\imooc-ts\dist132580446986115073 1
 77D:\project\imooc-ts\node_modules\@babel\core\lib\config\config-descriptors.js121012626000000000 0
 44D:\project\imooc-ts\node_modules\randombytes132580246049989376 1
 49D:\project\imooc-ts\node_modules\lodash\create.js121436361000000000 0
@@ -126,6 +126,13 @@
 88D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\2017\ToInt32.js121436361000000000 0
 56D:\project\imooc-ts\node_modules\postcss-selector-parser132580245987137591 1
 49D:\project\imooc-ts\node_modules\minimist\LICENSE121436361000000000 0
+42D:\project\imooc-ts\node_modules\base64-js132580246127594862 1
+107D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\2019\AbstractEqualityComparison.js121436361000000000 0
+64D:\project\imooc-ts\node_modules\highlight.js\styles\default.css131406724530000000 0
+77D:\project\imooc-ts\node_modules\caniuse-lite\data\features\css-dir-pseudo.js121436361000000000 0
+35D:\project\imooc-ts\src\jquery.d.ts132580450097334770 0
+54D:\project\imooc-ts\node_modules\utils-merge\README.md131503400080000000 0
+50D:\project\imooc-ts\node_modules\terser\PATRONS.md121436361000000000 0
 61D:\project\imooc-ts\node_modules\es-abstract\5\DayFromYear.js121436361000000000 0
 36D:\project\imooc-ts\node_modules\arg132579248264753965 1
 50D:\project\imooc-ts\node_modules\sshpk\.travis.yml131057659630000000 0
@@ -142,7 +149,7 @@
 80D:\project\imooc-ts\node_modules\is-descriptor\node_modules\kind-of\package.json132580246089058477 0
 107D:\project\imooc-ts\node_modules\typescript\loc\lcl\TRK\TypeScriptDebugEngine\TypeScriptDebugEngine.dll.lcl121436361000000000 0
 53D:\project\imooc-ts\node_modules\wcwidth\package.json132580245976860000 0
-31D:\project\imooc-ts\src\page.ts132580423988459217 0
+31D:\project\imooc-ts\src\page.ts132580446983964938 0
 88D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\2019\IsArray.js121436361000000000 0
 36D:\project\imooc-ts\node_modules\use132580245992121546 1
 52D:\project\imooc-ts\node_modules\lodash\cloneDeep.js121436361000000000 0
@@ -376,15 +383,6 @@
 60D:\project\imooc-ts\node_modules\postcss-convert-values\dist132580245786397908 1
 44D:\project\imooc-ts\node_modules\array-equal132580246130670266 1
 58D:\project\imooc-ts\node_modules\@parcel\core\package.json132580245967074997 0
-66D:\project\imooc-ts\node_modules\highlight.js\lib\languages\dos.js131406724530000000 0
-47D:\project\imooc-ts\node_modules\util-deprecate132580245987237317 1
-77D:\project\imooc-ts\node_modules\jsdom\lib\jsdom\living\generated\FormData.js121436361000000000 0
-70D:\project\imooc-ts\node_modules\core-js\features\iterator\to-array.js121436361000000000 0
-64D:\project\imooc-ts\node_modules\readable-stream\CONTRIBUTING.md121436361000000000 0
-55D:\project\imooc-ts\node_modules\lodash\escapeRegExp.js121436361000000000 0
-79D:\project\imooc-ts\node_modules\regenerate-unicode-properties\Script\Carian.js121436361000000000 0
-73D:\project\imooc-ts\node_modules\@parcel\utils\src\dependency-location.js121436361000000000 0
-39D:\project\imooc-ts\node_modules\buffer132580246094596989 1
 57D:\project\imooc-ts\node_modules\postcss-minify-gradients132580246033523346 1
 64D:\project\imooc-ts\node_modules\@parcel\transformer-postcss\src132580245771238960 1
 49D:\project\imooc-ts\node_modules\format\Readme.md130580565300000000 0
@@ -515,8 +513,6 @@
 53D:\project\imooc-ts\node_modules\node-forge\README.md121436361000000000 0
 37D:\project\imooc-ts\node_modules\aws4132580246127614825 1
 65D:\project\imooc-ts\node_modules\core-js\features\regexp\flags.js121436361000000000 0
-42D:\project\imooc-ts\node_modules\base64-js132580246127594862 1
-107D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\2019\AbstractEqualityComparison.js121436361000000000 0
 41D:\project\imooc-ts\node_modules\boolbase132580246126936514 1
 46D:\project\imooc-ts\node_modules\object.assign132580246068227800 1
 89D:\project\imooc-ts\node_modules\csso\node_modules\css-tree\lib\syntax\node\WhiteSpace.js121436361000000000 0
@@ -531,6 +527,15 @@
 78D:\project\imooc-ts\node_modules\@parcel\package-manager\lib\installPackage.js121436361000000000 0
 68D:\project\imooc-ts\node_modules\postcss-modules-values\lib\index.js131398811220000000 0
 99D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\2018\SameValueNonNumber.js121436361000000000 0
+66D:\project\imooc-ts\node_modules\highlight.js\lib\languages\dos.js131406724530000000 0
+47D:\project\imooc-ts\node_modules\util-deprecate132580245987237317 1
+77D:\project\imooc-ts\node_modules\jsdom\lib\jsdom\living\generated\FormData.js121436361000000000 0
+70D:\project\imooc-ts\node_modules\core-js\features\iterator\to-array.js121436361000000000 0
+64D:\project\imooc-ts\node_modules\readable-stream\CONTRIBUTING.md121436361000000000 0
+55D:\project\imooc-ts\node_modules\lodash\escapeRegExp.js121436361000000000 0
+79D:\project\imooc-ts\node_modules\regenerate-unicode-properties\Script\Carian.js121436361000000000 0
+73D:\project\imooc-ts\node_modules\@parcel\utils\src\dependency-location.js121436361000000000 0
+39D:\project\imooc-ts\node_modules\buffer132580246094596989 1
 93D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\2017\IsExtensible.js121436361000000000 0
 44D:\project\imooc-ts\node_modules\buffer-from132579248264664215 1
 80D:\project\imooc-ts\node_modules\highlight.js\styles\tomorrow-night-eighties.css131406724530000000 0
@@ -1870,8 +1875,8 @@
 44D:\project\imooc-ts\node_modules\use\LICENSE121436361000000000 0
 88D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\2015\MakeDay.js121436361000000000 0
 56D:\project\imooc-ts\node_modules\lodash\fp\dissocPath.js121436361000000000 0
-66D:\project\imooc-ts\node_modules\@parcel\core\lib\BundlerRunner.js121436361000000000 0
 71D:\project\imooc-ts\node_modules\@nodelib\fs.scandir\out\utils\index.js121436361000000000 0
+66D:\project\imooc-ts\node_modules\@parcel\core\lib\BundlerRunner.js121436361000000000 0
 66D:\project\imooc-ts\node_modules\object-inspect\test\quoteStyle.js121436361000000000 0
 46D:\project\imooc-ts\node_modules\lodash.sortby132580246078991230 1
 85D:\project\imooc-ts\node_modules\caniuse-lite\data\features\element-scroll-methods.js121436361000000000 0
@@ -2467,8 +2472,6 @@
 65D:\project\imooc-ts\node_modules\core-js\modules\es.string.sub.js121436361000000000 0
 43D:\project\imooc-ts\node_modules\strip-ansi132580246036414344 1
 88D:\project\imooc-ts\node_modules\posthtml\node_modules\posthtml-parser\coverage\base.css121436361000000000 0
-76D:\project\imooc-ts\node_modules\@babel\runtime\helpers\classNameTDZError.js121012626000000000 0
-37D:\project\imooc-ts\node_modules\uniq132580246001240623 1
 50D:\project\imooc-ts\node_modules\timers-browserify132580246026346184 1
 91D:\project\imooc-ts\node_modules\css-modules-loader-core\node_modules\postcss\lib\parser.js131386303530000000 0
 71D:\project\imooc-ts\node_modules\@parcel\utils\lib\isDirectoryInside.js121436361000000000 0
@@ -2521,6 +2524,8 @@
 45D:\project\imooc-ts\node_modules\urix\LICENSE130381790650000000 0
 57D:\project\imooc-ts\node_modules\@parcel\transformer-toml132580246133036774 1
 105D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\2018\StrictEqualityComparison.js121436361000000000 0
+76D:\project\imooc-ts\node_modules\@babel\runtime\helpers\classNameTDZError.js121012626000000000 0
+37D:\project\imooc-ts\node_modules\uniq132580246001240623 1
 68D:\project\imooc-ts\node_modules\defaults\node_modules\clone\LICENSE130657054670000000 0
 55D:\project\imooc-ts\node_modules\postcss\lib\comment.js121436361000000000 0
 38D:\project\imooc-ts\node_modules\uniqs132580245999471004 1
@@ -3230,8 +3235,8 @@
 71D:\project\imooc-ts\node_modules\core-js\modules\es.regexp.to-string.js121436361000000000 0
 69D:\project\imooc-ts\node_modules\caniuse-lite\data\features\webvtt.js121436361000000000 0
 87D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\helpers\mod.js121436361000000000 0
-105D:\project\imooc-ts\node_modules\postcss-normalize-url\node_modules\postcss-value-parser\lib\stringify.js121436361000000000 0
 92D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\2018\ToPrimitive.js121436361000000000 0
+105D:\project\imooc-ts\node_modules\postcss-normalize-url\node_modules\postcss-value-parser\lib\stringify.js121436361000000000 0
 78D:\project\imooc-ts\node_modules\react\cjs\react-jsx-runtime.production.min.js121436361000000000 0
 59D:\project\imooc-ts\node_modules\csso\lib\replace\String.js121436361000000000 0
 53D:\project\imooc-ts\node_modules\lodash\fp\indexBy.js121436361000000000 0
@@ -3256,8 +3261,6 @@
 52D:\project\imooc-ts\node_modules\randombytes\test.js121436361000000000 0
 82D:\project\imooc-ts\node_modules\jsdom\lib\jsdom\living\generated\HTMLBRElement.js121436361000000000 0
 86D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\5\ToUint32.js121436361000000000 0
-54D:\project\imooc-ts\node_modules\utils-merge\README.md131503400080000000 0
-50D:\project\imooc-ts\node_modules\terser\PATRONS.md121436361000000000 0
 66D:\project\imooc-ts\node_modules\resolve\lib\node-modules-paths.js121436361000000000 0
 55D:\project\imooc-ts\node_modules\base64-js\package.json132580246122827632 0
 51D:\project\imooc-ts\node_modules\lodash\fp\delay.js121436361000000000 0
@@ -3455,14 +3458,14 @@
 99D:\project\imooc-ts\node_modules\regenerate-unicode-properties\General_Category\Open_Punctuation.js121436361000000000 0
 63D:\project\imooc-ts\node_modules\es-abstract\2017\DaysInYear.js121436361000000000 0
 106D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\5\AbstractRelationalComparison.js121436361000000000 0
-62D:\project\imooc-ts\node_modules\es-abstract\2019\GetMethod.js121436361000000000 0
-67D:\project\imooc-ts\node_modules\create-require\create-require.d.ts121436361000000000 0
-67D:\project\imooc-ts\node_modules\core-js\stable\typed-array\keys.js121436361000000000 0
-81D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\5\Day.js121436361000000000 0
 54D:\project\imooc-ts\node_modules\lodash\fp\property.js121436361000000000 0
 108D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\2018\CanonicalNumericIndexString.js121436361000000000 0
 66D:\project\imooc-ts\node_modules\@babel\types\scripts\package.json121012626000000000 0
 49D:\project\imooc-ts\node_modules\psl\package.json132580246054064132 0
+62D:\project\imooc-ts\node_modules\es-abstract\2019\GetMethod.js121436361000000000 0
+67D:\project\imooc-ts\node_modules\create-require\create-require.d.ts121436361000000000 0
+67D:\project\imooc-ts\node_modules\core-js\stable\typed-array\keys.js121436361000000000 0
+81D:\project\imooc-ts\node_modules\util.promisify\node_modules\es-abstract\5\Day.js121436361000000000 0
 49D:\project\imooc-ts\node_modules\nwsapi\README.md121436361000000000 0
 63D:\project\imooc-ts\node_modules\core-js\modules\es.date.now.js121436361000000000 0
 60D:\project\imooc-ts\node_modules\@parcel\utils\lib\schema.js121436361000000000 0
@@ -6575,7 +6578,7 @@
 55D:\project\imooc-ts\node_modules\sha.js\test\vectors.js132580245801151223 0
 52D:\project\imooc-ts\node_modules\class-utils\LICENSE130805127610000000 0
 50D:\project\imooc-ts\node_modules\set-value\LICENSE121436361000000000 0
-74D:\project\imooc-ts\node_modules\@parcel\reporter-dev-server\lib\templates132580245754362962 1
+74D:\project\imooc-ts\node_modules\@parcel\reporter-dev-server\lib\templates132580245755482899 1
 50D:\project\imooc-ts\node_modules\lodash\fp\some.js121436361000000000 0
 47D:\project\imooc-ts\node_modules\diff\lib\patch132579248262530829 1
 57D:\project\imooc-ts\node_modules\class-utils\node_modules132580245943232056 1
@@ -10129,8 +10132,6 @@
 56D:\project\imooc-ts\node_modules\lodash\isPlainObject.js121436361000000000 0
 56D:\project\imooc-ts\node_modules\lodash\isSafeInteger.js121436361000000000 0
 82D:\project\imooc-ts\node_modules\jsdom\lib\jsdom\living\generated\MimeTypeArray.js121436361000000000 0
-73D:\project\imooc-ts\node_modules\highlight.js\lib\languages\handlebars.js131406724530000000 0
-70D:\project\imooc-ts\node_modules\@parcel\core\src\AssetGraphBuilder.js121436361000000000 0
 54D:\project\imooc-ts\node_modules\lodash\isUndefined.js121436361000000000 0
 111D:\project\imooc-ts\node_modules\@parcel\node-resolver-core\node_modules\fill-range\node_modules\extend-shallow132580246090255889 1
 56D:\project\imooc-ts\node_modules\core-js\es\map\index.js121436361000000000 0
@@ -11795,7 +11796,6 @@
 61D:\project\imooc-ts\node_modules\highlight.js\styles\dark.css131406724530000000 0
 53D:\project\imooc-ts\node_modules\cssom\lib\CSSRule.js121436361000000000 0
 64D:\project\imooc-ts\node_modules\highlight.js\styles\darkula.css131406724530000000 0
-64D:\project\imooc-ts\node_modules\highlight.js\styles\default.css131406724530000000 0
 64D:\project\imooc-ts\node_modules\highlight.js\styles\dracula.css131406724530000000 0
 60D:\project\imooc-ts\node_modules\highlight.js\styles\far.css131406724530000000 0
 73D:\project\imooc-ts\node_modules\core-js\modules\es.array.reduce-right.js121436361000000000 0
@@ -11868,6 +11868,8 @@
 68D:\project\imooc-ts\node_modules\highlight.js\lib\languages\gcode.js131406724530000000 0
 70D:\project\imooc-ts\node_modules\highlight.js\lib\languages\gherkin.js131406724530000000 0
 67D:\project\imooc-ts\node_modules\highlight.js\lib\languages\haml.js131406724530000000 0
+73D:\project\imooc-ts\node_modules\highlight.js\lib\languages\handlebars.js131406724530000000 0
+70D:\project\imooc-ts\node_modules\@parcel\core\src\AssetGraphBuilder.js121436361000000000 0
 70D:\project\imooc-ts\node_modules\highlight.js\lib\languages\haskell.js131406724530000000 0
 66D:\project\imooc-ts\node_modules\highlight.js\lib\languages\hsp.js131406724530000000 0
 67D:\project\imooc-ts\node_modules\highlight.js\lib\languages\http.js131406724530000000 0
@@ -13030,7 +13032,7 @@
 75D:\project\imooc-ts\node_modules\es-abstract\2017\OrdinaryGetOwnProperty.js121436361000000000 0
 79D:\project\imooc-ts\node_modules\@parcel\transformer-postcss\src\loadPlugins.js121436361000000000 0
 75D:\project\imooc-ts\node_modules\es-abstract\2017\OrdinaryGetPrototypeOf.js121436361000000000 0
-72D:\project\imooc-ts\node_modules\@parcel\runtime-browser-hmr\lib\loaders132580245770062110 1
+72D:\project\imooc-ts\node_modules\@parcel\runtime-browser-hmr\lib\loaders132580245771149208 1
 72D:\project\imooc-ts\node_modules\es-abstract\2017\OrdinaryHasInstance.js121436361000000000 0
 72D:\project\imooc-ts\node_modules\es-abstract\2017\OrdinaryHasProperty.js121436361000000000 0
 73D:\project\imooc-ts\node_modules\csso\node_modules\css-tree\lib\convertor132580245888348931 1
@@ -15665,7 +15667,6 @@
 81D:\project\imooc-ts\node_modules\caniuse-lite\data\features\css-default-pseudo.js121436361000000000 0
 82D:\project\imooc-ts\node_modules\caniuse-lite\data\features\css-descendant-gtgt.js121436361000000000 0
 83D:\project\imooc-ts\node_modules\caniuse-lite\data\features\css-deviceadaptation.js121436361000000000 0
-77D:\project\imooc-ts\node_modules\caniuse-lite\data\features\css-dir-pseudo.js121436361000000000 0
 83D:\project\imooc-ts\node_modules\caniuse-lite\data\features\css-display-contents.js121436361000000000 0
 77D:\project\imooc-ts\node_modules\caniuse-lite\data\features\css-exclusions.js121436361000000000 0
 77D:\project\imooc-ts\node_modules\caniuse-lite\data\features\css-first-line.js121436361000000000 0
@@ -17777,6 +17778,6 @@
 46D:\project\imooc-ts\node_modules\.bin\uuid.ps1132580246142822167 0
 47D:\project\imooc-ts\node_modules\.bin\which.cmd132580246142951821 0
 47D:\project\imooc-ts\node_modules\.bin\which.ps1132580246142951821 0
-35D:\project\imooc-ts\dist\index.html132580425033240016 0
-41D:\project\imooc-ts\dist\page.8039d560.js132580425033309830 0
-45D:\project\imooc-ts\dist\page.8039d560.js.map132580425033379651 0
+35D:\project\imooc-ts\dist\index.html132580446986005627 0
+41D:\project\imooc-ts\dist\page.8039d560.js132580446986085135 0
+45D:\project\imooc-ts\dist\page.8039d560.js.map132580446986105079 0
