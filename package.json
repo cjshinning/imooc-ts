@@ -4,7 +4,7 @@
   "description": "learning typescript",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node ./demo.ts"
+    "test": "parcel ./src/index.html"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/cjshinning/imooc-ts#readme",
   "devDependencies": {
+    "parcel": "^2.0.0-beta.1",
     "ts-node": "^9.1.1"
   },
   "dependencies": {

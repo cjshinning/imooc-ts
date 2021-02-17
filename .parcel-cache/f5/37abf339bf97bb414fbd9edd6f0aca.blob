@@ -1,0 +1,2 @@
+const student = 'jenny';
+console.log(student);

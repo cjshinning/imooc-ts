@@ -1,9 +1,2 @@
-import { Header, Content, Footer } from './components';
-
-export default class Page {
-  constructor() {
-    new Header();
-    new Content();
-    new Footer();
-  }
-}
+const student: string = 'jenny';
+console.log(student);
