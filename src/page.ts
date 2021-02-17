@@ -1,14 +1,9 @@
-///<reference path='./components.ts>
+import { Header, Content, Footer } from './components';
 
-namespace Home {
-  export class Page {
-    user: Components.User = {
-      name: 'jenny'
-    };
-    constructor() {
-      new Components.Header();
-      new Components.Content();
-      new Components.Footer();
-    }
+export default class Page {
+  constructor() {
+    new Header();
+    new Content();
+    new Footer();
   }
 }
