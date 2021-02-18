@@ -48,7 +48,7 @@ typings/
 *.tsbuildinfo
 
 # parcel cache
-.parcel-cache
+.parcel-cache/
 
 # Optional npm cache directory
 .npm
